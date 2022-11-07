@@ -188,7 +188,7 @@ body {
   will-change: transform;
 }
 
-/* @media (max-width: 767px) {
+@media (max-width: 767px) {
   .parallax__box,
   .parallax__subtitle-icon {
     top: clamp(5%, 5%, 20%);
@@ -200,6 +200,6 @@ body {
   .parallax__subtitle-icon {
     top: clamp(35%, 10%, 25%);
   }
-} */
+}
 
 
